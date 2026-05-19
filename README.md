@@ -6,7 +6,7 @@
 
 ###
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently working on something i want to be after learning coding
 - ⚡ Fun fact I think I am 🤖</p>
 
 ###
